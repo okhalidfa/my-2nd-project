@@ -384,7 +384,6 @@ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(2
 }
 .de{
     
-    /* margin-left: -110px; */
     background-color:#230E3D;
     border-radius: 30px;
     width:1100px;
@@ -534,6 +533,47 @@ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(2
     width: 300px;
     max-height: 350px;
   }
+
+  .op{
+    margin: 0px;
+    max-width:560px;
+    max-height: 1500px;
+
+  }
+  .yt{
+    padding-top: 450px;
+    display: grid;
+    padding-left: 30px;
+    margin: 0px;
+    max-width: 500px;
+    height: 600px;
+  
+  }
+  .de{
+    margin: 0px;
+    margin-left: 15px;
+    display: grid;
+    max-width: 420px;
+    height: 370px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+  .yr{
+    height: 100px;
+    width: 100px;
+    margin:0 150px;
+  }
+  .sd{
+    text-align: center;
+    padding-bottom: 70px;
+  }
+  .df{
+    margin:0 140px;
+
+  }
+
     
  
     
