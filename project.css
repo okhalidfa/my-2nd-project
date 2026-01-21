@@ -451,15 +451,11 @@ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(2
     text-align: center;
     padding:10px
 }
-btt:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 25px rgba(37, 99, 235, 0.4);
-}
 
 
-btt:active {
-  transform: scale(0.95);
-}
+
+
+
 
 
 
