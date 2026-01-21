@@ -304,7 +304,7 @@ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(2
     
 
 }
-.i{
+.ia{
     grid-row: span 1;
     grid-column: span 2;
     border: 8px;
@@ -355,11 +355,9 @@ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(2
     font-size: 24px;
     font-weight: 700;
 }
-i{
-    grid-column: span 2;
-    grid-row: span 1;
 
-}
+
+
 
 
 
@@ -438,6 +436,49 @@ i{
     font-size: 2rem;
     font-weight: 500;
    }
+   .con{
+    max-height: 1800px;
+   }
+  .x{
+    display: grid;
+    margin: 0 20px;
+
+    max-width: 450px;
+    max-height: 2000px;
+    grid-template-columns: repeat(1, 1fr);
+
+  }
+  .c {
+    height: 260px;
+    width: 300px;
+    padding-top: 10px;
+    margin: 0px;
+  }
+  .ia{
+    height: 260px;
+    width: 300px;
+    padding-top: 10px;
+    margin: 0px;
+
+
+  }
+
+  .d{
+    height: 260px;
+    width: 300px;
+    margin-bottom: 150px;
+   
+
+
+  }
+  .fa{
+    min-height: 260px;
+    width: 300px;
+  }
+    
+ 
+    
+  
    
     
 
